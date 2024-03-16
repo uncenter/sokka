@@ -40,5 +40,6 @@
 		"unicorn/filename-case": "off",
 		"unicorn/numeric-separators-style": "off",
 		"unicorn/prevent-abbreviations": "off",
+		"unicorn/no-array-reduce": "off",
 	},
 }
